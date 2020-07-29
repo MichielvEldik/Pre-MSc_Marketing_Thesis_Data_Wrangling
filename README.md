@@ -1,6 +1,6 @@
 # Pre-MSc-Marketing-Thesis-Data-Wrangling
 
-## set-up of the experiment
+## Set-up of the experiment
 
 I completed my thesis research by means of a between-subjects experimental design with two tasks using the online survey tool Qualtrics (N = 188).
 One group was triggered to rely on their feelings whilst the other was conditioned to rely on logic and reasoning throughout these experiments.
@@ -11,7 +11,7 @@ The mean score for all pictures in which no pattern was present is to be aggrega
 The second task required participants to come up with as many associations as possible for two common household objects within a timeframe of 2 minutes.
 For the experiment, the contents of these answers didn't matter so much as the number of answers per individual. 
 
-## goal of the data wrangling program
+## Goal of the data wrangling program
 The main purpose of this short program was to set up the dataset imported from Qualtrics to smoothly work in SPSS for analyses. Although SPSS offers great features to wrangle data, I found that certain things were simply much easier in Python and Pandas. 
 
 ### (1) 
